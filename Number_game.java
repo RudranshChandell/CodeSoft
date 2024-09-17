@@ -1,6 +1,6 @@
 import java.util.*;
 public class Number_game {
-    public static Scanner sc = new Scanner(System.in);
+    public static Scanner sc = new Scanner(System.in);             //Code by Rudransh Chandel
     public static void game() {
         Scanner sc = new Scanner(System.in);
         int number_of_attempt = 0;
